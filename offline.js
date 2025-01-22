@@ -1,0 +1,32 @@
+﻿{
+	"version": 1737528123,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/redlightgreenlighthowto-sheet0.png",
+		"images/redlightgreenlighthowto-sheet1.png",
+		"images/redlightgreenlighthowto-sheet2.png",
+		"images/play-sheet0.png",
+		"images/laserbeam-sheet0.png",
+		"images/anchor-sheet0.png",
+		"images/sapceshiplightsoff-sheet0.png",
+		"images/lightbeam2-sheet0.png",
+		"images/bg-sheet0.png",
+		"images/lightsaberhandle-sheet0.png",
+		"images/trigger-sheet0.png",
+		"images/laserbeam1.png",
+		"images/laserbeam2.png",
+		"images/laserbeam3.png",
+		"images/laserbeam4.png",
+		"media/tap.m4a",
+		"media/tap.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
