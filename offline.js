@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1737528123,
+	"version": 1737537563,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,7 +7,6 @@
 		"offlineClient.js",
 		"images/redlightgreenlighthowto-sheet0.png",
 		"images/redlightgreenlighthowto-sheet1.png",
-		"images/redlightgreenlighthowto-sheet2.png",
 		"images/play-sheet0.png",
 		"images/laserbeam-sheet0.png",
 		"images/anchor-sheet0.png",
