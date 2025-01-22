@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1737543265,
+	"version": 1737547986,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -11,7 +11,7 @@
 		"images/laserbeam-sheet0.png",
 		"images/anchor-sheet0.png",
 		"images/sapceshiplightsoff-sheet0.png",
-		"images/lightbeam2-sheet0.png",
+		"images/laserbullet-sheet0.png",
 		"images/bg-sheet0.png",
 		"images/lightsaberhandle-sheet0.png",
 		"images/trigger-sheet0.png",
@@ -25,6 +25,10 @@
 		"media/game over (5).ogg",
 		"media/saber sound.m4a",
 		"media/saber sound.ogg",
+		"media/laser hit.m4a",
+		"media/laser hit.ogg",
+		"media/humm.m4a",
+		"media/humm.ogg",
 		"media/bg (3).m4a",
 		"media/bg (3).ogg",
 		"icon-16.png",
