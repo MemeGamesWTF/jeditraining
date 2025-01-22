@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1737537563,
+	"version": 1737543265,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +21,12 @@
 		"images/laserbeam4.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
+		"media/game over (5).m4a",
+		"media/game over (5).ogg",
+		"media/saber sound.m4a",
+		"media/saber sound.ogg",
+		"media/bg (3).m4a",
+		"media/bg (3).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
